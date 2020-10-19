@@ -21,6 +21,22 @@ You can find more about my work through my social media, blog posts and public s
 - [Effective use of magic methods in Laravel](https://coloredcow.com/talks/laravel/effective-use-of-magic-methods-in-laravel?utm_source=github&utm_medium=pankaj-ag)
 - [Make your Laravel apps available on mobile](https://coloredcow.com/talks/laravel/make-your-laravel-apps-available-on-mobile?utm_source=github&utm_medium=pankaj-ag)
 
+### :computer: Work
+I have been an active software programmer and tech reviewer for more than 4 years. Though I mostly work in private projects, I am also active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
+- [Glific](https://github.com/glific/glific) - A two-way communication platform for non-profits using WhatsApp
+- [Employee Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke platform for organization operations
+- [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
+- [Laravel Saml IDP](https://github.com/ColoredCow/laravel-samlidp) - A Package to make laravel application an SAML SP 
+- [Laravel Audit](https://github.com/ColoredCow/laravel-audit) - Manage the laravel auditing based on events
+
+
+### :mortar_board: I mentor programming!
+Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium=pankaj-ag), I've taught hundreds of students how to start their career in software development. Check out a few of my sessions:
+- [Fundamentals of software development](https://coloredcow.com/codetrek-session/build-web-app/?utm_source=github&utm_medium=pankaj-ag)
+- [How to test your code effectively](https://coloredcow.com/codetrek-session/test-your-code/?utm_source=github&utm_medium=pankaj-ag)
+- [Concepts of Functional programming via Elixir](https://coloredcow.com/codetrek-session/concepts-of-functional-programming-via-elixir/?utm_source=github&utm_medium=pankaj-ag)
+- [Build a mobile app with react native and laravel](https://coloredcow.com/codetrek-session/build-mobile-app/?utm_source=github&utm_medium=pankaj-ag)
+
 <hr/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj-ag&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-ag&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />

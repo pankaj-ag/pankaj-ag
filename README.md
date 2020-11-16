@@ -39,4 +39,4 @@ Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium
 
 <hr/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj-ag&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-ag&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj-ag&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" /> 

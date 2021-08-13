@@ -9,7 +9,7 @@ You can find more about my work through my social media, blog posts and public s
 <hr/>
 
 ### :newspaper: Blog Posts
-
+- [Glific (A two way communication platform for NGO)](https://www.findbestopensource.com/article-detail/glific-two-way-communication-platform-for-ngo)
 - [Community is the key to success in any language/tech](https://coloredcow.com/community-is-the-key-to-success-for-any-language-framework?utm_source=github&utm_medium=pankaj-ag)
 - [Moving from procedural to functional programming ](https://coloredcow.com/from-procedural-to-functional-programming?utm_source=github&utm_medium=pankaj-ag)
 - [Categorize incoming data with Elixir GenStage](https://coloredcow.com/categorize-incoming-data-with-elixir-genstage?utm_source=github&utm_medium=pankaj-ag)

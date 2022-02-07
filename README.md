@@ -1,4 +1,4 @@
-Hello! I am Pankaj. I am in a deep love with the tech and building softwares. I worked as a Senior Software engineer at  <a href="https://coloredcow.com">ColoredCow</a>. I also lead the mobile development and the ColoredCow's flagship product <a href="https://managemyngo.com"> ManageMyNgo </a>. 
+Hello! I am Pankaj. I am in a deep love with the tech and building softwares. I worked as a Senior Software engineer at  <a href="https://coloredcow.com">ColoredCow</a>. I also lead the mobile development and the ColoredCow's flagship product <a href="https://managemyngo.com"> ManageMyNgo </a>.\n 
 Currently I am building a open source platform <a href="https://glific.com"> Glific </a> which helps organizations in two way communications. 
 You can find more about my work through my social media, blog posts and public speakings.
 

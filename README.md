@@ -19,9 +19,10 @@ You can find more about my work through my social media, blog posts and public s
 - [React Native and Laravel](https://coloredcow.com/how-to-react-native-and-its-integration-with-laravel-can-help-social-sector-organizations-create-an-impact-on-scale?utm_source=github&utm_medium=pankaj-ag)
 
 ### :mega: Public speakings
-
+- [A talk on FOSS united india](https://glific.org/first-talk-at-indiafoss%ef%bf%bc/)
 - [Effective use of magic methods in Laravel](https://coloredcow.com/talks/laravel/effective-use-of-magic-methods-in-laravel?utm_source=github&utm_medium=pankaj-ag)
 - [Make your Laravel apps available on mobile](https://coloredcow.com/talks/laravel/make-your-laravel-apps-available-on-mobile?utm_source=github&utm_medium=pankaj-ag)
+
 
 ### :computer: Work
 I have been an active software programmer and tech reviewer for more than 4 years. Though I mostly work in private projects, I am also active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
